@@ -1,0 +1,40 @@
+Part 1: Unbearable Revenge-
+
+Objective:
+
+The goal is to retrieve a flag from a chest located in the heart of the "Unbearable Woods" by surviving the dangerous bears for 5 minutes.
+Strategy:
+
+    Preparation:
+        Research: Understand the behavior patterns of the bears, their movement speed, and their range of detection.
+        Equipments: Gather essential survival tools like weapons, armor, health potions, and traps.
+        Skills: Develop necessary skills such as stealth, combat proficiency, and agility to avoid or combat the bears.
+
+    Path Planning:
+        Map Study: Analyze the map of the Unbearable Woods to identify the safest and quickest route to the chest.
+        Waypoints: Set waypoints or landmarks to follow to avoid getting lost.
+
+    Stealth and Avoidance:
+        Stealth Mode: Move quietly and slowly to avoid detection by the bears. Use crouch and sneak modes if available.
+        Distractions: Use items like stones or noise-makers to divert the bears' attention away from your path.
+        Cover: Utilize natural covers like trees and bushes to hide from the bears.
+
+    Combat Readiness:
+        Weapon Selection: Equip weapons that can take down a bear quickly if combat becomes unavoidable.
+        Traps: Place traps along the path to slow down or injure pursuing bears.
+        Health Management: Keep an eye on health levels and use health potions as needed.
+
+    Survival Tactics:
+        Keep Moving: Stay on the move to avoid being cornered by the bears.
+        Alertness: Be constantly alert for bear sounds or movements.
+        Resource Management: Use resources like health potions and traps judiciously to ensure they last the entire 5 minutes.
+
+    Execution:
+        Entry: Enter the woods quietly and begin following the planned route.
+        Engagement: Engage with bears only if absolutely necessary and use traps effectively.
+        Survival: Focus on surviving the 5-minute duration while slowly making your way to the chest.
+        Retrieval: Once at the chest, retrieve the flag quickly and make your way out of the woods.
+
+Hack Script:
+
+A hack script can automate some of the survival tactics, such as moving in stealth mode, placing traps at intervals, and using health potions automatically when health is low.
