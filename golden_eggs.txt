@@ -1,0 +1,30 @@
+Part 2: Golden Eggs
+
+Objective:
+
+To find and collect all 10 golden eggs scattered around the island and retrieve the flag.
+Strategy:
+
+    Preparation:
+        Research: Understand the possible locations and hiding spots for the golden eggs.
+        Equipments: Gather essential tools like a map, compass, and possibly detection equipment if available.
+        Skills: Develop necessary skills such as navigation, detection, and quick movement.
+
+    Analysis of the Binary:
+        Decompilation: Decompile the binary to investigate the global variable g_eggs in the .bss section.
+        Egg Locations: Identify if the binary contains hardcoded locations or any patterns related to the eggs.
+        Exploitation: Use any discovered patterns or addresses to narrow down potential egg locations.
+
+    Path Planning:
+        Map Study: Analyze the map of the island to plan the most efficient route to search for the eggs.
+        Waypoints: Set waypoints for systematic searching to ensure no area is missed.
+
+    Detection and Collection:
+        Detection Tools: Use tools like metal detectors or any in-game hints to locate the eggs.
+        Collection Process: Develop a script to automate or assist in the collection process.
+
+    Execution:
+        Entry: Start from a known location and begin the systematic search.
+        Engagement: Engage with any game mechanics or enemies encountered during the search.
+        Collection: Collect each egg and mark its location to avoid duplication.
+        Completion: After collecting all 10 eggs, retrieve the flag as prompted.

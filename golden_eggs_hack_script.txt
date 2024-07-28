@@ -1,0 +1,40 @@
+import time
+import random
+
+class Player:
+    def __init__(self):
+        self.position = (0, 0)
+        self.collected_eggs = 0
+        self.inventory = {'eggs': 0}
+
+    def move(self, direction):
+        print(f"Moving {direction}")
+        # Update position based on direction
+
+    def detect_egg(self):
+        # Simulate egg detection logic
+        detected = random.choice([True, False])
+        return detected
+
+    def collect_egg(self):
+        if self.detect_egg():
+            self.inventory['eggs'] += 1
+            self.collected_eggs += 1
+            print(f"Egg collected! Total eggs: {self.collected_eggs}")
+        else:
+            print("No egg detected.")
+
+def main():
+    player = Player()
+    directions = ["north", "east", "south", "west"]
+
+    while player.collected_eggs < 10:
+        direction = random.choice(directions)
+        player.move(direction)
+        player.collect_egg()
+        time.sleep(1)  # Simulate time delay for movements
+
+    print("All 10 eggs collected. Retrieving the flag.")
+
+if __name__ == "__main__":
+    main()
